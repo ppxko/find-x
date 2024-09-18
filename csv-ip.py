@@ -1,8 +1,9 @@
 import csv
+import sys
 
 # 定义输入和输出文件的路径
-input_file = 'xt_ip.csv'
-output_file = 'fancy/xt_ip.txt'
+input_file = sys.argv[1]
+output_file = sys.argv[2]
 
 # 打开 CSV 文件进行读取
 with open(input_file, 'r', newline='', encoding='utf-8') as csvfile:
