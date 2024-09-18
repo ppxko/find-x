@@ -10,11 +10,11 @@ class Record:
 
 def main():
     if len(sys.argv) < 2:
-        print("请提供输入文件名，例如: python yourscript.py other.txt")
+        print("请提供文件名，例如: python yourscript.py other.txt other.txt")
         return
 
     input_file = sys.argv[1]
-    output_file = "xtip.txt"
+    output_file = sys.argv[2]
 
     try:
         with open(input_file, 'r', encoding='utf-8') as file, open(output_file, 'w', encoding='utf-8') as out_file:
