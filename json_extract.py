@@ -9,8 +9,8 @@ class Record:
         self.ip = ip
 
 def main():
-    if len(sys.argv) < 2:
-        print("请提供文件名，例如: python yourscript.py other.txt other.txt")
+    if len(sys.argv) < 3:
+        print("请提供输入文件名和输出文件名，例如: python yourscript.py input.txt output.txt")
         return
 
     input_file = sys.argv[1]
@@ -43,7 +43,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-
-
-
