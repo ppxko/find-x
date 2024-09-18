@@ -38,6 +38,9 @@ jobs:
       run: |
         python3 json_extract.py ce.txt ce.txt
         python3 listquchong.py ce.txt
+    # 运行 iptest
+    - name: Run iptest
+      run: |        
         chmod +x iptest
         ./iptest -file=ce.txt  -tls=true -speedtest=0 -max=100  -outfile="ce_ip.csv"
         python3 csv-ip.py ce_ip.csv ce_ip.txt
