@@ -360,7 +360,6 @@ class FofaMain:
         # init_search_key = base64.b64decode(searchbs64).decode()
         init_search_key = search_key
         # if not config.AUTHORIZATION:
-        print("\033[1;34mnow search key: {}\033[0m".format(init_search_key))
         TEMP_RETRY_NUM = 0
 
         while TEMP_RETRY_NUM < self.MAX_MATCH_RETRY_NUM:
