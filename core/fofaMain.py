@@ -98,14 +98,13 @@ class FofaMain:
         """
         print(colorize(_('''[*] LEVEL = {} , 初始化成功
 [*] 爬取延时: {}s
-[*] 爬取关键字: {}
 [*] 爬取结束数量: {}
 [*] 输出格式为: {}
 [*] 存储文件名: {}
 [*] 是否开启关键字fuzz: {}
 [*] 是否开启代理: {}
 [*] 读取文件: {}
-''').format(self.level, self.time_sleep, self.search_key, self.endcount, self.output, self.filename,
+''').format(self.level, self.time_sleep, self.endcount, self.output, self.filename,
             self.fuzz, self.is_proxy, self.inputfile), "green"))
 
     def format_single_proxy(self, proxy):
