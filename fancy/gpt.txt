@@ -1,3 +1,4 @@
+http://39.79.132.245:3006
 http://94.74.64.147:9999
 http://59.63.82.122:7014
 http://8.210.105.110:12345
@@ -32,8 +33,3 @@ http://academic.chatwithpaper.org
 https://academic.chatwithpaper.org
 https://xueshu.52apikey.cn
 http://xueshu.52apikey.cn
-https://xiaoyuan.52apikey.cn
-http://47.93.3.24:8080
-http://47.236.224.38
-http://oxs.opao.xyz
-https://oxs.opao.xyz
