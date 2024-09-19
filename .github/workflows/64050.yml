@@ -32,7 +32,7 @@ jobs:
     # 运行你的 fofa.py 文件
     - name: Run Python script
       run: |
-        python3 fofa.py -k ${{ secrets._4578 }} --outputname xt0 --level 2 --endcount 2000
+        python3 fofa.py -k ${{ secrets._4578 }} --outputname xt0 --level 2 --endcount 2000 --fuzz true
     # 运行 list.py 文件
     - name: Run list.py
       run: |
