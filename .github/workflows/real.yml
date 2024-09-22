@@ -1,0 +1,64 @@
+name: _40065
+
+on:
+  schedule:
+    # 使用cron表达式来设置定时任务，这个例子是在每天的中午12点运行
+    - cron: '10 17 * * *'
+  workflow_dispatch:
+    #手动触发      
+
+jobs:
+  run-script:
+    runs-on: ubuntu-latest
+
+    steps:
+    # Checkout 仓库代码
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    # 设置 Python 环境
+    - name: Set up Python
+      uses: actions/setup-python@v3
+      with:
+        python-version: '3.8'  # 这里可以指定 Python 版本，比如 3.9
+
+    # 安装项目的依赖项（如果有）
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        # 如果有 requirements.txt 文件，取消下一行注释
+         pip install -r requirements.txt
+
+    # 运行你的 fofa.py 文件
+    - name: Run Python script
+      run: |
+        python3 fofa.py -k ${{ secrets._real }} --outputname ce0 --level 2 --endcount 2000 --fuzz
+    # 运行 list.py 文件
+    - name: Run list.py
+      run: |
+        python3 json_extract.py ce0.txt ce.txt
+        python3 listquchong.py ce.txt
+    # 运行 iptest
+    - name: Run iptest
+      run: |        
+        chmod +x iptest
+        ./iptest -file=ce.txt  -tls=true -speedtest=0 -max=100  -outfile="ce_ip.csv"
+        python3 csv-ip.py ce_ip.csv ce_ip.txt
+      # 移动生成的 txt 文件到 fancy 目录
+    - name: Move txt to fancy directory
+      run: |
+        mv real_ip.txt fancy/  
+    #运行   
+    - name: Commit and push changes
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      run: |
+        git config --global user.name 'github-actions[bot]'
+        git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+        git add -f fancy/real_ip.txt
+        if git diff --cached --quiet; then
+          echo "No changes to commit"
+        else
+          git commit -m 'Add real_ip.txt'
+          git push
+        fi
