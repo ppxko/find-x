@@ -1,3 +1,5 @@
+http://54.219.31.89
+http://123.120.10.255:88
 http://xueshu.xiaoyuzz.top
 https://xueshu.xiaoyuzz.top
 https://gpt.maning.com.cn:9000
@@ -33,7 +35,3 @@ https://academic.chat918.com
 https://1.12.64.148
 http://123.120.5.50:88
 https://paper-helper.giiisp.com
-http://paper-helper.giiisp.com
-https://academic.deem.love
-http://academic.chatwithpaper.org
-https://academic.chatwithpaper.org
