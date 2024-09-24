@@ -1,3 +1,4 @@
+http://74.48.74.91:8084
 http://47.76.118.132:4100
 http://47.96.76.171:8890
 http://54.219.31.89
@@ -36,4 +37,3 @@ http://academic.chat918.com
 https://academic.chat918.com
 https://1.12.64.148
 http://123.120.5.50:88
-https://paper-helper.giiisp.com
