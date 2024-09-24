@@ -1,3 +1,4 @@
+http://43.137.10.2:8090
 http://74.48.74.91:8084
 http://47.76.118.132:4100
 http://47.96.76.171:8890
@@ -34,6 +35,3 @@ http://gptac.heumc.cc
 https://101.201.173.237
 http://47.121.181.16:12345
 http://academic.chat918.com
-https://academic.chat918.com
-https://1.12.64.148
-http://123.120.5.50:88
