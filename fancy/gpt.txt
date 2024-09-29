@@ -1,3 +1,4 @@
+http://123.120.1.48:88
 http://43.153.215.24:12303
 https://154.9.228.117
 http://159.138.241.106:443
@@ -34,6 +35,3 @@ http://54.146.195.242:8081
 http://123.207.71.173:8001
 https://cn.scholarnavis.com
 http://cn.scholarnavis.com
-https://gptac.heumc.cc
-http://gptac.heumc.cc
-https://101.201.173.237
