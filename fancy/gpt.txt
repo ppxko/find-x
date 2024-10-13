@@ -1,3 +1,5 @@
+http://43.251.102.231:9002
+http://64.176.47.117:3002
 http://1.14.197.180:6066
 http://academic.chatwithpaper.org
 https://academic.chatwithpaper.org
@@ -32,8 +34,3 @@ http://47.96.76.171:8890
 http://54.219.31.89
 http://123.120.10.255:88
 http://xueshu.xiaoyuzz.top
-https://xueshu.xiaoyuzz.top
-https://gpt.maning.com.cn:9000
-https://ai.aplap.org
-http://ai.aplap.org
-https://47.236.224.38
