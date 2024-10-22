@@ -1,3 +1,5 @@
+http://124.222.94.189:888
+http://sample.keycanai.com:8001
 https://aca.loong.help
 http://47.236.224.38
 http://academic.chat918.com
@@ -34,5 +36,3 @@ http://97.64.22.138:443
 https://154.64.230.87
 http://116.62.12.234:8001
 http://119.3.126.48:8081
-http://47.96.76.171:8889
-http://88.214.22.60:8888
