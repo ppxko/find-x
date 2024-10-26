@@ -1,3 +1,6 @@
+http://xueshugpt.daofeiai.com
+https://ag.krumio.com
+http://74.48.74.91:8084
 http://43.153.100.183:5000
 http://47.251.116.210
 http://170.106.189.152:5000
