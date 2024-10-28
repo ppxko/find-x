@@ -1,3 +1,4 @@
+http://20.48.249.201:3001
 http://124.221.141.206:3000
 https://ai.aplap.org
 http://ai.aplap.org
@@ -36,4 +37,3 @@ https://152.53.53.16
 http://101.37.19.233:8080
 http://123.207.71.173:8001
 http://199.180.113.130:9998
-https://academic.grqnas.top
