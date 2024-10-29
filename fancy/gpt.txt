@@ -1,3 +1,9 @@
+http://120.55.181.238:3002
+http://94.74.64.147:9999
+http://dfc-ai.tgtai.com
+https://xueshu.52apikey.cn
+http://xueshu.52apikey.cn
+https://154.201.92.130
 http://20.48.249.201:3001
 http://124.221.141.206:3000
 https://ai.aplap.org
@@ -31,9 +37,3 @@ http://124.220.3.164:8025
 http://43.251.102.231:9002
 http://64.176.47.117:3002
 http://1.14.197.180:6066
-http://academic.chatwithpaper.org
-https://academic.chatwithpaper.org
-https://152.53.53.16
-http://101.37.19.233:8080
-http://123.207.71.173:8001
-http://199.180.113.130:9998
