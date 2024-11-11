@@ -1,3 +1,8 @@
+https://tcmii.cn
+http://www.tcmii.cn
+https://www.tcmii.cn
+http://tcmii.cn
+https://49.51.68.21
 https://154.64.230.87
 http://tai.tgtai.com
 http://88.214.22.60:9999
@@ -31,8 +36,3 @@ https://ai.aionline.fun
 http://124.222.94.189:888
 http://sample.keycanai.com:8001
 https://aca.loong.help
-http://47.236.224.38
-http://academic.chat918.com
-https://academic.chat918.com
-http://120.55.181.238:3001
-http://47.108.216.185:8890
