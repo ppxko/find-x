@@ -1,3 +1,5 @@
+http://123.207.71.173:8001
+http://47.106.140.227
 https://xs1.zhiyunai168.com
 http://xs1.zhiyunai168.com
 http://23.94.204.167:12345
@@ -35,5 +37,3 @@ https://ag.krumio.com
 http://74.48.74.91:8084
 http://43.153.100.183:5000
 http://47.251.116.210
-http://170.106.189.152:5000
-https://ai.aionline.fun
