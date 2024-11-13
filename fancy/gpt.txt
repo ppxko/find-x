@@ -1,3 +1,6 @@
+http://47.116.73.20:15555
+http://academic.deem.love
+https://academic.deem.love
 https://acad.aijuhe.top
 http://xueshu.xiaoyuzz.top
 https://xueshu.xiaoyuzz.top
@@ -34,6 +37,3 @@ http://124.221.141.206:3000
 https://ai.aplap.org
 http://ai.aplap.org
 https://47.236.224.38
-http://110.179.80.5:3335
-http://xueshugpt.daofeiai.com
-https://ag.krumio.com
