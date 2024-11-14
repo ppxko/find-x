@@ -1,3 +1,7 @@
+http://59.63.4.35:7014
+http://132.226.234.156:9999
+http://acad.llmhub.net
+https://acad.llmhub.net
 http://47.116.73.20:15555
 http://academic.deem.love
 https://academic.deem.love
@@ -30,10 +34,3 @@ http://120.55.181.238:3002
 http://94.74.64.147:9999
 http://dfc-ai.tgtai.com
 https://xueshu.52apikey.cn
-http://xueshu.52apikey.cn
-https://154.201.92.130
-http://20.48.249.201:3001
-http://124.221.141.206:3000
-https://ai.aplap.org
-http://ai.aplap.org
-https://47.236.224.38
