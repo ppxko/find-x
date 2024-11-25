@@ -1,3 +1,10 @@
+http://116.82.183.135
+http://academic.chatwithpaper.org
+http://114.132.157.209:55555
+https://academic.chatwithpaper.org
+https://gpt.san.fson.cc
+http://gpt.san.fson.cc
+https://173.249.201.185
 http://97.64.22.138:443
 https://74.226.209.111
 http://www.hll-gpt.cn
@@ -30,10 +37,3 @@ https://acad.llmhub.net
 http://47.116.73.20:15555
 http://academic.deem.love
 https://academic.deem.love
-https://acad.aijuhe.top
-http://xueshu.xiaoyuzz.top
-https://xueshu.xiaoyuzz.top
-http://123.207.71.173:8001
-http://47.106.140.227
-https://xs1.zhiyunai168.com
-http://xs1.zhiyunai168.com
