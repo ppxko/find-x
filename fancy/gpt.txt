@@ -1,3 +1,10 @@
+http://110.40.133.42:7003
+https://119.8.120.53
+https://ztqai.cn
+http://ztqai.cn
+http://38.55.203.218:8001
+http://ai.aplap.org
+https://ai.aplap.org
 http://74.48.74.91:8084
 http://43.153.215.24:12303
 http://124.221.141.206:3000
@@ -26,11 +33,3 @@ https://24.233.1.2
 http://academic.try-chatgpt.fun
 https://156.238.229.85
 http://38.165.34.239:1451
-http://162.43.55.75
-http://www.cztong888.top
-https://www.cztong888.top
-http://xueshugpt.daofeiai.com
-http://oxs.opao.xyz
-https://oxs.opao.xyz
-http://47.108.216.185:8890
-http://124.220.3.164:8025
