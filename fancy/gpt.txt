@@ -1,7 +1,9 @@
-http://110.40.133.42:7003
-https://119.8.120.53
 https://ztqai.cn
 http://ztqai.cn
+http://gpt-academic.aiearth.dev
+https://gpt-academic.aiearth.dev
+http://110.40.133.42:7003
+https://119.8.120.53
 http://38.55.203.218:8001
 http://ai.aplap.org
 https://ai.aplap.org
