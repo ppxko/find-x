@@ -1,3 +1,6 @@
+http://academic.gptpanda.com.cn
+https://academic.gptpanda.com.cn
+http://94.74.64.147:9999
 https://ztqai.cn
 http://ztqai.cn
 http://gpt-academic.aiearth.dev
@@ -30,8 +33,3 @@ https://www.hll-gpt.cn
 https://1.12.64.148
 https://23.145.120.186
 https://chataca.yazkto.top
-http://chataca.yazkto.top
-https://24.233.1.2
-http://academic.try-chatgpt.fun
-https://156.238.229.85
-http://38.165.34.239:1451
