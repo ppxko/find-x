@@ -1,3 +1,9 @@
+http://ygpt.jinxiapu.cn
+https://ygpt.jinxiapu.cn
+http://170.106.189.152:5001
+https://47.236.224.38
+https://101.201.173.237
+http://198.13.52.217:443
 https://academic.shengqi.xin
 http://academic.shengqi.xin
 http://xueshu.52apikey.cn
@@ -29,10 +35,3 @@ https://ai.aplap.org
 http://74.48.74.91:8084
 http://43.153.215.24:12303
 http://124.221.141.206:3000
-http://103.133.179.245:9090
-http://43.153.100.183:5000
-http://170.106.189.152:5000
-https://academic.dwyu.top
-http://101.43.104.25:9090
-http://47.251.116.210
-http://116.82.183.135
