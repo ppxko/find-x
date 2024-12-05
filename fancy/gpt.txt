@@ -1,3 +1,4 @@
+http://8.134.175.121
 http://120.55.181.238:3001
 http://ygpt.jinxiapu.cn
 https://ygpt.jinxiapu.cn
@@ -33,7 +34,3 @@ http://110.40.133.42:7003
 https://119.8.120.53
 http://38.55.203.218:8001
 http://ai.aplap.org
-https://ai.aplap.org
-http://74.48.74.91:8084
-http://43.153.215.24:12303
-http://124.221.141.206:3000
