@@ -1,3 +1,6 @@
+http://116.82.183.135:4050
+http://1.14.197.180:6066
+https://academic.try-chatgpt.fun
 https://gpt.maning.com.cn:9000
 http://8.134.175.121
 http://120.55.181.238:3001
@@ -28,10 +31,3 @@ http://academic.gptpanda.com.cn
 https://academic.gptpanda.com.cn
 http://94.74.64.147:9999
 https://ztqai.cn
-http://ztqai.cn
-http://gpt-academic.aiearth.dev
-https://gpt-academic.aiearth.dev
-http://110.40.133.42:7003
-https://119.8.120.53
-http://38.55.203.218:8001
-http://ai.aplap.org
