@@ -1,3 +1,9 @@
+http://119.185.146.17:3006
+https://154.9.228.117
+https://academic.ai-box.cn
+http://academic.ai-box.cn
+https://xueshu.vveai.com
+http://xueshu.vveai.com
 https://academic.gptpanda.net
 http://academic.gptpanda.net
 https://154.64.230.87
@@ -5,8 +11,6 @@ http://academic.xiaoai.plus
 https://academic.xiaoai.plus
 http://science01.a1r.cc
 https://science01.a1r.cc
-http://xueshu.vveai.com
-https://xueshu.vveai.com
 https://www.yazkto.top
 http://43.251.102.231:9002
 http://88.214.22.60:9999
@@ -31,9 +35,3 @@ https://academic.try-chatgpt.fun
 https://gpt.maning.com.cn:9000
 http://8.134.175.121
 http://120.55.181.238:3001
-http://ygpt.jinxiapu.cn
-https://ygpt.jinxiapu.cn
-http://149.28.85.205:443
-http://170.106.189.152:5001
-https://47.236.224.38
-https://101.201.173.237
