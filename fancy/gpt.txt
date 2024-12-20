@@ -1,10 +1,13 @@
+http://154.9.246.245:3100
+https://152.136.159.29
+http://xueshu.vveai.com
+https://xueshu.vveai.com
+http://47.108.216.185:8890
 https://xueshu.aionline.fun
 http://119.185.146.17:3006
 https://154.9.228.117
 https://academic.ai-box.cn
 http://academic.ai-box.cn
-https://xueshu.vveai.com
-http://xueshu.vveai.com
 https://academic.gptpanda.net
 http://academic.gptpanda.net
 https://154.64.230.87
@@ -34,5 +37,3 @@ http://116.82.183.135:4050
 http://1.14.197.180:6066
 https://academic.try-chatgpt.fun
 https://gpt.maning.com.cn:9000
-http://8.134.175.121
-http://120.55.181.238:3001
