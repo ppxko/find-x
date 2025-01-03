@@ -1,3 +1,4 @@
+https://1.12.64.148
 http://47.251.116.210
 https://deeme-a.hf.space
 http://xues.aicivi2.fun
@@ -36,4 +37,3 @@ http://119.185.146.17:3006
 https://154.9.228.117
 https://academic.ai-box.cn
 http://academic.ai-box.cn
-https://academic.gptpanda.net
