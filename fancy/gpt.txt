@@ -1,3 +1,6 @@
+http://ai.aplap.org
+http://xues.aicivi2.fun
+http://43.153.59.249:3388
 http://47.116.73.20:15555
 https://acad.aijuhe.top
 https://zhangshiyu9779.com
@@ -24,7 +27,6 @@ https://academic.baicaigpt.com
 http://43.153.100.183:5000
 https://172.245.81.204
 https://academic.stxf.site
-http://xues.aicivi2.fun
 https://39.103.62.175
 http://114.132.157.209:55555
 https://1.12.64.148
@@ -33,3 +35,4 @@ https://deeme-a.hf.space
 https://www.mstsc.site
 https://gpt.san.fson.cc
 http://gpt.san.fson.cc
+http://124.222.94.189:888
