@@ -1,3 +1,6 @@
+http://118.26.111.142:9009
+http://120.55.181.238:3002
+http://149.28.85.205:443
 http://dfc-ai.tgtai.com
 http://academic.baicaigpt.com
 https://www.lovejq.space
@@ -28,11 +31,3 @@ https://ztqai.cn
 http://162.43.55.75
 http://gptac.heumc.cc
 https://119.8.120.53
-https://47.236.224.38
-https://101.201.173.237
-https://academic.baicaigpt.com
-http://43.153.100.183:5000
-https://172.245.81.204
-https://academic.stxf.site
-https://39.103.62.175
-http://114.132.157.209:55555
