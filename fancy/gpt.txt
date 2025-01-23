@@ -1,3 +1,4 @@
+http://43.153.215.24:12303
 http://xs.zhiyunai168.com
 https://xs.zhiyunai168.com
 http://212.227.64.111:30006
@@ -36,4 +37,3 @@ http://8.217.194.98:6789
 https://academic.mstsc.site
 http://170.106.168.149:6556
 http://1.14.197.180:6066
-http://103.133.179.245:9090
