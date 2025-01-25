@@ -1,3 +1,10 @@
+http://8.134.175.121
+https://academic.xiaoai.plus
+http://academic.xiaoai.plus
+http://119.3.126.48:8081
+http://47.106.140.227
+https://chat-aca.gjhhh.top
+http://chat-aca.gjhhh.top
 http://43.153.215.24:12303
 http://xs.zhiyunai168.com
 https://xs.zhiyunai168.com
@@ -27,13 +34,3 @@ https://23.145.120.186
 http://ai.aplap.org
 http://xues.aicivi2.fun
 http://43.153.59.249:3388
-http://47.116.73.20:15555
-https://acad.aijuhe.top
-https://zhangshiyu9779.com
-https://xues.aicivi2.fun
-https://110.42.46.200:6789
-http://124.221.141.206:3000
-http://8.217.194.98:6789
-https://academic.mstsc.site
-http://170.106.168.149:6556
-http://1.14.197.180:6066
