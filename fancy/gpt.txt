@@ -1,3 +1,4 @@
+http://181.215.6.239:3000
 https://magic-academic.com.cn
 http://magic-academic.com.cn
 http://20.3.251.60:5005
