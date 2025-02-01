@@ -1,6 +1,9 @@
-http://181.215.6.239:3000
-https://magic-academic.com.cn
+http://38.55.203.218:8001
 http://magic-academic.com.cn
+https://magic-academic.com.cn
+http://xueshu.xiaoyuzz.top
+https://xueshu.xiaoyuzz.top
+http://181.215.6.239:3000
 http://20.3.251.60:5005
 http://45.77.220.129:666
 http://154.201.79.104:22303
@@ -34,5 +37,3 @@ https://auth.gpt-academic.top
 http://88.214.22.60:9999
 http://97.64.22.138:443
 http://173.249.201.185:8989
-https://gpt.maning.com.cn:9000
-https://154.201.79.179
