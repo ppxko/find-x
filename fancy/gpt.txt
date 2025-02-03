@@ -1,3 +1,12 @@
+http://43.156.61.248:5005
+https://ygpt.jinxiapu.cn
+http://ygpt.jinxiapu.cn
+http://13.43.89.85:8080
+http://www.icustudy.cn
+http://132.226.234.156:9999
+http://94.74.64.147:9999
+http://154.201.79.104:22303
+http://74.48.74.91:8084
 http://38.55.203.218:8001
 http://magic-academic.com.cn
 https://magic-academic.com.cn
@@ -6,7 +15,6 @@ https://xueshu.xiaoyuzz.top
 http://181.215.6.239:3000
 http://20.3.251.60:5005
 http://45.77.220.129:666
-http://154.201.79.104:22303
 https://academic.gptpanda.net
 https://154.64.230.87
 http://135.237.81.98:5000
@@ -26,14 +34,3 @@ http://119.3.126.48:8081
 http://47.106.140.227
 https://chat-aca.gjhhh.top
 http://chat-aca.gjhhh.top
-http://43.153.215.24:12303
-http://xs.zhiyunai168.com
-https://xs.zhiyunai168.com
-http://212.227.64.111:30006
-https://paper-helper.giiisp.com
-http://paper-helper.giiisp.com
-https://play.bytegooty.com
-https://auth.gpt-academic.top
-http://88.214.22.60:9999
-http://97.64.22.138:443
-http://173.249.201.185:8989
