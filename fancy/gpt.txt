@@ -1,8 +1,10 @@
+http://121.41.97.246:2024
+http://154.201.79.104:22303
+http://81.70.253.200:9998
 http://114.132.157.209:55555
 http://120.55.181.238:3001
 http://open.6988688.xyz
 https://open.6988688.xyz
-http://154.201.79.104:22303
 http://43.156.61.248:5005
 https://ygpt.jinxiapu.cn
 http://ygpt.jinxiapu.cn
@@ -32,8 +34,3 @@ http://117.21.112.39:7014
 https://gptac.zaipinai.icu
 http://gptac.zaipinai.icu
 http://8.134.175.121
-https://academic.xiaoai.plus
-http://academic.xiaoai.plus
-http://119.3.126.48:8081
-http://47.106.140.227
-https://chat-aca.gjhhh.top
