@@ -1,3 +1,4 @@
+https://open.6988688.xyz
 http://1.14.197.180:6066
 http://47.108.216.185:8890
 http://59.63.15.94:7014
@@ -8,7 +9,6 @@ http://81.70.253.200:9998
 http://114.132.157.209:55555
 http://120.55.181.238:3001
 http://open.6988688.xyz
-https://open.6988688.xyz
 http://43.156.61.248:5005
 https://ygpt.jinxiapu.cn
 http://ygpt.jinxiapu.cn
@@ -18,3 +18,21 @@ http://132.226.234.156:9999
 http://94.74.64.147:9999
 http://74.48.74.91:8084
 http://38.55.203.218:8001
+http://magic-academic.com.cn
+https://magic-academic.com.cn
+http://xueshu.xiaoyuzz.top
+https://xueshu.xiaoyuzz.top
+http://181.215.6.239:3000
+http://20.3.251.60:5005
+http://45.77.220.129:666
+https://academic.gptpanda.net
+https://154.64.230.87
+http://135.237.81.98:5000
+http://170.106.189.152:5000
+http://libowen.tech
+https://www.libowen.tech
+http://www.libowen.tech
+https://libowen.tech
+https://47.122.16.77
+http://117.21.112.39:7014
+https://gptac.zaipinai.icu
