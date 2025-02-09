@@ -1,3 +1,5 @@
+http://academic.gptpanda.net
+https://academic.gptpanda.net
 https://open.6988688.xyz
 http://1.14.197.180:6066
 http://47.108.216.185:8890
@@ -25,7 +27,6 @@ https://xueshu.xiaoyuzz.top
 http://181.215.6.239:3000
 http://20.3.251.60:5005
 http://45.77.220.129:666
-https://academic.gptpanda.net
 https://154.64.230.87
 http://135.237.81.98:5000
 http://170.106.189.152:5000
@@ -34,5 +35,3 @@ https://www.libowen.tech
 http://www.libowen.tech
 https://libowen.tech
 https://47.122.16.77
-http://117.21.112.39:7014
-https://gptac.zaipinai.icu
