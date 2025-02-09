@@ -1,3 +1,7 @@
+http://ztqai.cn
+http://open.6988688.xyz
+https://ztqai.cn
+https://119.8.120.53
 http://academic.gptpanda.net
 https://academic.gptpanda.net
 https://open.6988688.xyz
@@ -10,7 +14,6 @@ http://154.201.79.104:22303
 http://81.70.253.200:9998
 http://114.132.157.209:55555
 http://120.55.181.238:3001
-http://open.6988688.xyz
 http://43.156.61.248:5005
 https://ygpt.jinxiapu.cn
 http://ygpt.jinxiapu.cn
@@ -31,7 +34,3 @@ https://154.64.230.87
 http://135.237.81.98:5000
 http://170.106.189.152:5000
 http://libowen.tech
-https://www.libowen.tech
-http://www.libowen.tech
-https://libowen.tech
-https://47.122.16.77
