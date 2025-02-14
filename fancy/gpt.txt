@@ -1,3 +1,6 @@
+http://45.142.166.135:12303
+http://173.249.210.44:12303
+http://gptac.heumc.cc
 https://gptac.heumc.cc
 https://101.201.173.237
 https://1.12.64.148
@@ -32,8 +35,3 @@ https://magic-academic.com.cn
 http://xueshu.xiaoyuzz.top
 https://xueshu.xiaoyuzz.top
 http://181.215.6.239:3000
-http://20.3.251.60:5005
-http://45.77.220.129:666
-https://154.64.230.87
-http://135.237.81.98:5000
-http://170.106.189.152:5000
