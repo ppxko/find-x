@@ -1,3 +1,4 @@
+http://47.227.220.15:9000
 http://47.251.116.210
 http://159.138.241.106:4443
 http://45.142.166.135:12303
@@ -34,6 +35,3 @@ http://74.48.74.91:8084
 http://38.55.203.218:8001
 http://magic-academic.com.cn
 https://magic-academic.com.cn
-http://xueshu.xiaoyuzz.top
-https://xueshu.xiaoyuzz.top
-http://181.215.6.239:3000
