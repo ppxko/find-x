@@ -1,3 +1,5 @@
+http://115.151.67.42:12345
+http://154.222.18.195:7777
 https://test.nai3.cc
 http://test.nai3.cc
 http://111.73.178.49:7014
@@ -35,5 +37,3 @@ https://academic.gptpanda.net
 https://open.6988688.xyz
 http://1.14.197.180:6066
 http://47.108.216.185:8890
-http://59.63.15.94:7014
-http://162.43.55.75
