@@ -1,3 +1,5 @@
+https://ai.jinbaopay.com
+http://ai.jinbaopay.com
 http://academic.baicaigpt.com
 https://academic.baicaigpt.com
 https://172.245.81.204
@@ -35,5 +37,3 @@ https://48.218.112.106
 http://ztqai.cn
 http://open.6988688.xyz
 https://ztqai.cn
-https://119.8.120.53
-http://academic.gptpanda.net
