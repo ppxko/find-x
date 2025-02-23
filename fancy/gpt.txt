@@ -1,3 +1,5 @@
+http://124.221.141.206:3000
+http://8.134.175.121
 https://ai.jinbaopay.com
 http://ai.jinbaopay.com
 http://academic.baicaigpt.com
@@ -30,10 +32,3 @@ http://159.138.241.106:4443
 http://45.142.166.135:12303
 http://173.249.210.44:12303
 http://gptac.heumc.cc
-https://gptac.heumc.cc
-https://101.201.173.237
-https://1.12.64.148
-https://48.218.112.106
-http://ztqai.cn
-http://open.6988688.xyz
-https://ztqai.cn
