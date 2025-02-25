@@ -1,3 +1,11 @@
+http://dfc-ai.tgtai.com
+https://ai.aplap.org
+http://ai.aplap.org
+https://156.238.229.85
+http://43.137.10.2:8090
+http://45.32.57.159:443
+http://120.55.181.238:3002
+http://103.117.123.136:6060
 http://124.221.141.206:3000
 http://8.134.175.121
 https://ai.jinbaopay.com
@@ -13,8 +21,6 @@ http://test.nai3.cc
 http://111.73.178.49:7014
 http://180.76.50.145
 http://auth.gpt-academic.top
-http://ai.aplap.org
-https://ai.aplap.org
 https://auth.gpt-academic.top
 http://122.152.224.107:5005
 https://www.lovejq.space
@@ -30,5 +36,3 @@ http://103.133.179.245:9090
 http://47.227.220.15:9000
 http://159.138.241.106:4443
 http://45.142.166.135:12303
-http://173.249.210.44:12303
-http://gptac.heumc.cc
