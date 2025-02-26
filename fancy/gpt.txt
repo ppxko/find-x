@@ -1,3 +1,5 @@
+http://119.3.126.48:8081
+http://172.245.9.111:443
 https://paper.vivon1031.top
 http://paper.vivon1031.top
 http://academic.deem.love
