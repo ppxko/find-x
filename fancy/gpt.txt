@@ -1,3 +1,9 @@
+https://chat.op414.com
+http://chat.op414.com
+http://170.106.168.149:6556
+https://154.201.79.179
+http://43.134.70.156:5000
+http://135.237.81.98:5000
 http://170.106.189.152:5000
 http://1.95.61.58:8080
 http://ztqai.cn
@@ -30,9 +36,3 @@ http://115.151.67.42:12345
 http://154.222.18.195:7777
 http://111.73.178.49:7014
 http://180.76.50.145
-http://auth.gpt-academic.top
-https://auth.gpt-academic.top
-http://122.152.224.107:5005
-https://www.lovejq.space
-http://111.230.36.157:33333
-https://47.236.224.38
