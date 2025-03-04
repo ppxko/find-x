@@ -1,3 +1,4 @@
+http://211.159.166.14:9000
 http://45.77.220.129:666
 http://181.215.6.239:3000
 http://8.217.194.98:6789
@@ -31,9 +32,3 @@ http://124.221.141.206:3000
 http://8.134.175.121
 https://ai.jinbaopay.com
 http://ai.jinbaopay.com
-http://academic.baicaigpt.com
-https://academic.baicaigpt.com
-https://172.245.81.204
-http://43.156.63.110:443
-http://115.151.67.42:12345
-http://154.222.18.195:7777
