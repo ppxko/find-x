@@ -1,3 +1,4 @@
+http://xueshugpt.daofeiai.com
 http://47.106.140.227
 http://111.229.103.237
 http://8.221.141.75
@@ -35,5 +36,3 @@ http://120.55.181.238:3002
 http://103.117.123.136:6060
 http://124.221.141.206:3000
 http://8.134.175.121
-https://ai.jinbaopay.com
-http://ai.jinbaopay.com
