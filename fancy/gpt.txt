@@ -1,3 +1,4 @@
+https://154.64.230.87
 http://gpt.pallava.top
 https://gpt.pallava.top
 http://97.64.22.138:443
@@ -31,9 +32,3 @@ https://23.145.120.186
 http://207.246.108.91:443
 http://dfc-ai.tgtai.com
 https://ai.aplap.org
-http://ai.aplap.org
-https://156.238.229.85
-http://43.137.10.2:8090
-http://45.32.57.159:443
-http://120.55.181.238:3002
-http://103.117.123.136:6060
