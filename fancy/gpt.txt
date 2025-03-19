@@ -1,3 +1,5 @@
+https://47.236.224.38
+http://8.130.43.183:9000
 http://159.138.241.106:4443
 https://academic.gptw.top
 http://121.36.54.160:3307
@@ -32,8 +34,3 @@ http://1.95.61.58:8080
 http://ztqai.cn
 https://ztqai.cn
 http://119.3.126.48:8081
-http://172.245.9.111:443
-https://paper.vivon1031.top
-http://paper.vivon1031.top
-http://academic.deem.love
-https://academic.deem.love
