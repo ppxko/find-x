@@ -1,3 +1,6 @@
+http://101.6.69.253:12345
+http://chatxs.wuyebanmian.com
+https://chatxs.wuyebanmian.com
 http://118.26.111.142:9009
 https://gpt.pving.com
 https://academic.gptpanda.net
@@ -30,8 +33,3 @@ http://121.36.54.160:3307
 https://xues.aicivi2.fun
 http://xues.aicivi2.fun
 http://132.226.234.156:9999
-https://mail.ijocta.org
-http://94.74.64.147:9999
-http://47.108.216.185:8890
-https://154.64.230.87
-http://gpt.pallava.top
