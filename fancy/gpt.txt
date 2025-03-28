@@ -1,3 +1,4 @@
+http://117.21.116.223:7014
 http://academic.baicaigpt.com
 https://academic.baicaigpt.com
 http://146.235.58.206:10003
@@ -36,4 +37,3 @@ https://academic.gptw.top
 http://121.36.54.160:3307
 https://xues.aicivi2.fun
 http://xues.aicivi2.fun
-http://132.226.234.156:9999
