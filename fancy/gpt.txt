@@ -1,3 +1,4 @@
+http://zhongshanxiang.com:9090
 http://117.21.116.223:7014
 http://academic.baicaigpt.com
 https://academic.baicaigpt.com
@@ -28,12 +29,3 @@ http://www.hrbaq.com
 https://119.8.120.53
 https://154.8.162.103
 https://47.122.16.77
-http://101.43.104.25:9090
-http://academic.gptw.top
-https://47.236.224.38
-http://8.130.43.183:9000
-http://159.138.241.106:4443
-https://academic.gptw.top
-http://121.36.54.160:3307
-https://xues.aicivi2.fun
-http://xues.aicivi2.fun
