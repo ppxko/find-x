@@ -1,3 +1,5 @@
+http://103.133.179.245:9090
+http://47.227.220.15:9000
 http://acad.aijuhe.top
 https://acad.aijuhe.top
 http://154.222.18.195:7777
