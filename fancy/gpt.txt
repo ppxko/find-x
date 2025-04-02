@@ -1,3 +1,9 @@
+https://gpt.san.fson.cc
+http://gpt.san.fson.cc
+http://dfc-ai.tgtai.com
+https://173.249.201.185
+http://auth.gpt-academic.top
+https://auth.gpt-academic.top
 http://103.133.179.245:9090
 http://47.227.220.15:9000
 http://acad.aijuhe.top
@@ -30,8 +36,3 @@ http://120.55.181.238:3001
 http://47.111.118.82:12345
 https://1.12.64.148
 http://162.43.55.75
-http://1.14.197.180:6066
-http://www.hrbaq.com
-https://119.8.120.53
-https://154.8.162.103
-https://47.122.16.77
