@@ -1,3 +1,4 @@
+http://97.64.22.138:443
 http://120.55.181.238:3002
 http://43.156.63.110:443
 http://124.221.141.206:3000
@@ -35,5 +36,3 @@ https://gpt.pving.com
 https://academic.gptpanda.net
 https://154.9.228.117
 https://8.152.194.198
-https://www.lovejq.space
-https://gptac.heumc.cc
