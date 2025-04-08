@@ -1,3 +1,4 @@
+http://118.26.111.142:9009
 http://97.64.22.138:443
 http://120.55.181.238:3002
 http://43.156.63.110:443
@@ -31,8 +32,8 @@ https://172.245.81.204
 http://101.6.69.253:12345
 http://chatxs.wuyebanmian.com
 https://chatxs.wuyebanmian.com
-http://118.26.111.142:9009
 https://gpt.pving.com
 https://academic.gptpanda.net
 https://154.9.228.117
 https://8.152.194.198
+https://www.lovejq.space
