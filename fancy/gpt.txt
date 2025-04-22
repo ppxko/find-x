@@ -1,3 +1,7 @@
+http://101.43.104.25:9090
+http://211.159.166.14:9000
+http://47.106.140.227
+http://159.138.241.106:4443
 http://120.55.181.238:3001
 http://111.229.103.237
 https://154.201.79.179
@@ -32,8 +36,3 @@ http://43.134.188.92:8032
 http://zhongshanxiang.com:9090
 http://117.21.116.223:7014
 http://academic.baicaigpt.com
-https://academic.baicaigpt.com
-http://146.235.58.206:10003
-https://172.245.81.204
-http://101.6.69.253:12345
-http://chatxs.wuyebanmian.com
