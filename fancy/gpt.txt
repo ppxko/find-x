@@ -1,3 +1,9 @@
+http://gptac.heumc.cc
+https://gptac.heumc.cc
+https://101.201.173.237
+https://academic.baicaigpt.com
+http://academic.baicaigpt.com
+https://172.245.81.204
 http://20.78.70.52:12345
 http://43.156.61.248:5005
 http://94.74.64.147:9999
@@ -30,10 +36,3 @@ http://115.171.251.150:8089
 http://120.46.60.151:8090
 https://gpt.san.fson.cc
 http://gpt.san.fson.cc
-http://dfc-ai.tgtai.com
-https://173.249.201.185
-http://auth.gpt-academic.top
-https://auth.gpt-academic.top
-http://103.133.179.245:9090
-http://47.227.220.15:9000
-http://acad.aijuhe.top
