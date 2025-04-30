@@ -1,3 +1,5 @@
+https://gpt.pving.com
+https://152.136.159.29
 http://gptac.heumc.cc
 https://gptac.heumc.cc
 https://101.201.173.237
@@ -33,6 +35,3 @@ http://1.95.61.58:8080
 http://43.134.70.156:5000
 http://43.137.10.2:8090
 http://115.171.251.150:8089
-http://120.46.60.151:8090
-https://gpt.san.fson.cc
-http://gpt.san.fson.cc
