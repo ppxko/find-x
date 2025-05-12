@@ -1,3 +1,7 @@
+http://gpt.san.fson.cc
+https://gpt.san.fson.cc
+https://173.249.201.185
+http://173.249.201.185:8989
 https://47.122.16.77
 http://121.36.54.160:3307
 http://dfc-ai.tgtai.com
@@ -28,12 +32,3 @@ https://academic.baicaigpt.com
 http://academic.baicaigpt.com
 https://172.245.81.204
 http://20.78.70.52:12345
-http://43.156.61.248:5005
-http://94.74.64.147:9999
-http://132.226.234.156:9999
-http://123.207.71.173:8001
-https://154.8.162.103
-https://8.152.194.198
-http://101.43.104.25:9090
-http://211.159.166.14:9000
-http://47.106.140.227
