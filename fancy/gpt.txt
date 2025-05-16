@@ -1,3 +1,7 @@
+http://1.94.252.40:12303
+http://23.145.120.186:12303
+http://156.245.201.234:12303
+http://45.142.166.135:12303
 http://20.163.10.102:3001
 http://43.156.63.110:443
 https://23.145.120.186
@@ -33,5 +37,3 @@ https://gptac.heumc.cc
 https://101.201.173.237
 https://academic.baicaigpt.com
 http://academic.baicaigpt.com
-https://172.245.81.204
-http://20.78.70.52:12345
