@@ -1,3 +1,7 @@
+http://academic.apiproxy.ai
+http://159.138.241.106:4443
+https://academic.apiproxy.ai
+http://111.229.103.237
 https://154.201.79.179
 http://115.171.251.150:8089
 http://97.64.22.138:443
@@ -33,5 +37,3 @@ http://124.221.141.206:3000
 http://ai.aplap.org
 https://ai.aplap.org
 https://47.236.224.38
-https://1.12.64.148
-http://181.215.6.239:3000
