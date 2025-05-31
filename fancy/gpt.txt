@@ -1,3 +1,4 @@
+http://43.153.59.249:3388
 https://www.hrbaq.com
 https://172.245.81.204
 http://acad.aijuhe.top
@@ -36,4 +37,3 @@ https://gpt.san.fson.cc
 https://173.249.201.185
 http://173.249.201.185:8989
 https://47.122.16.77
-http://121.36.54.160:3307
