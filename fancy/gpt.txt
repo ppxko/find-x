@@ -1,3 +1,6 @@
+http://xueshu.lyzplus.cn
+https://47.79.93.101
+https://xueshu.lyzplus.cn
 http://auth.gptacademic.cn
 https://auth.gptacademic.cn
 http://43.153.59.249:3388
@@ -34,4 +37,3 @@ http://45.142.166.135:12303
 http://20.163.10.102:3001
 http://43.156.63.110:443
 https://23.145.120.186
-http://gpt.san.fson.cc
