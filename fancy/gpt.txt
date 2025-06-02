@@ -1,3 +1,5 @@
+http://auth.gptacademic.cn
+https://auth.gptacademic.cn
 http://43.153.59.249:3388
 https://www.hrbaq.com
 https://172.245.81.204
@@ -33,7 +35,3 @@ http://20.163.10.102:3001
 http://43.156.63.110:443
 https://23.145.120.186
 http://gpt.san.fson.cc
-https://gpt.san.fson.cc
-https://173.249.201.185
-http://173.249.201.185:8989
-https://47.122.16.77
