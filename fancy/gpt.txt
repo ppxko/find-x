@@ -1,9 +1,12 @@
+http://ai.aplap.org
+https://ai.aplap.org
+https://47.236.224.38
+http://acad.aijuhe.top
+https://acad.aijuhe.top
 https://gpt.pving.com
 https://152.136.159.29
 http://124.221.141.206:3000
 http://120.55.181.238:3002
-http://acad.aijuhe.top
-https://acad.aijuhe.top
 http://120.55.181.238:3001
 http://181.215.6.239:3000
 https://101.35.20.215
