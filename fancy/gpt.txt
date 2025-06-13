@@ -1,3 +1,4 @@
+http://38.246.246.74:8000
 http://acad.aijuhe.top
 https://acad.aijuhe.top
 http://ai.aplap.org
@@ -36,4 +37,3 @@ http://111.229.103.237
 https://154.201.79.179
 http://115.171.251.150:8089
 http://97.64.22.138:443
-http://47.108.216.185:8890
