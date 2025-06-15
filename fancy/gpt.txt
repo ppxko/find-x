@@ -1,3 +1,4 @@
+http://8.146.207.103:666
 http://38.246.246.74:8000
 http://acad.aijuhe.top
 https://acad.aijuhe.top
@@ -32,8 +33,3 @@ http://47.227.220.15:9000
 http://101.43.104.25:9090
 http://academic.apiproxy.ai
 http://159.138.241.106:4443
-https://academic.apiproxy.ai
-http://111.229.103.237
-https://154.201.79.179
-http://115.171.251.150:8089
-http://97.64.22.138:443
