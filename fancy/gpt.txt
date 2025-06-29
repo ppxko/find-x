@@ -1,3 +1,5 @@
+http://94.74.64.147:9999
+http://dfc-ai.tgtai.com
 https://154.64.230.87
 https://academic.apiproxy.ai
 http://123.207.71.173:8001
