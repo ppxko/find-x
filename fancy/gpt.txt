@@ -1,3 +1,6 @@
+https://academic.baicaigpt.com
+http://academic.baicaigpt.com
+https://172.245.81.204
 https://47.79.93.101
 https://gpt.san.fson.cc
 http://gpt.san.fson.cc
@@ -34,4 +37,3 @@ https://gpt.pving.com
 https://152.136.159.29
 http://124.221.141.206:3000
 http://120.55.181.238:3002
-http://120.55.181.238:3001
