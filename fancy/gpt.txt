@@ -1,3 +1,6 @@
+http://www.hrbaq.com
+https://154.8.162.103
+http://20.163.10.102:3001
 https://academic.baicaigpt.com
 http://academic.baicaigpt.com
 https://172.245.81.204
@@ -33,7 +36,3 @@ https://acad.aijuhe.top
 http://ai.aplap.org
 https://ai.aplap.org
 https://47.236.224.38
-https://gpt.pving.com
-https://152.136.159.29
-http://124.221.141.206:3000
-http://120.55.181.238:3002
