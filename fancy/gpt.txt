@@ -1,3 +1,5 @@
+http://183.173.99.244:12345
+http://115.171.251.150:8089
 http://www.hrbaq.com
 https://154.8.162.103
 http://20.163.10.102:3001
@@ -34,5 +36,3 @@ http://38.246.246.74:8000
 http://acad.aijuhe.top
 https://acad.aijuhe.top
 http://ai.aplap.org
-https://ai.aplap.org
-https://47.236.224.38
