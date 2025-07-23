@@ -1,3 +1,4 @@
+http://124.71.79.176:9200
 http://8.146.207.103:666
 https://acad.aijuhe.top
 https://47.122.16.77
@@ -18,3 +19,21 @@ http://183.173.99.244:12345
 http://115.171.251.150:8089
 http://www.hrbaq.com
 https://154.8.162.103
+http://20.163.10.102:3001
+https://academic.baicaigpt.com
+http://academic.baicaigpt.com
+https://172.245.81.204
+https://47.79.93.101
+https://gpt.san.fson.cc
+http://gpt.san.fson.cc
+https://173.249.201.185
+http://1.14.197.180:6066
+https://154.201.79.179
+http://121.41.97.246:2024
+http://111.229.103.237
+http://159.138.241.106:4443
+http://132.226.234.156:9999
+http://94.74.64.147:9999
+http://dfc-ai.tgtai.com
+https://154.64.230.87
+https://academic.apiproxy.ai
