@@ -1,3 +1,4 @@
+http://120.55.181.238:3002
 http://124.71.79.176:9200
 http://8.146.207.103:666
 https://acad.aijuhe.top
@@ -34,6 +35,3 @@ http://111.229.103.237
 http://159.138.241.106:4443
 http://132.226.234.156:9999
 http://94.74.64.147:9999
-http://dfc-ai.tgtai.com
-https://154.64.230.87
-https://academic.apiproxy.ai
