@@ -1,3 +1,4 @@
+http://101.43.104.25:9090
 https://101.35.20.215
 https://23.145.120.186
 https://acad.aijuhe.top
@@ -34,6 +35,3 @@ https://academic.baicaigpt.com
 http://academic.baicaigpt.com
 https://172.245.81.204
 https://47.79.93.101
-https://gpt.san.fson.cc
-http://gpt.san.fson.cc
-https://173.249.201.185
