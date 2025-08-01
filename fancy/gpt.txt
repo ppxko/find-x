@@ -1,3 +1,4 @@
+http://39.98.216.9:3888
 http://20.78.70.52:12345
 http://43.156.63.110:443
 http://101.43.104.25:9090
@@ -36,4 +37,3 @@ http://20.163.10.102:3001
 https://academic.baicaigpt.com
 http://academic.baicaigpt.com
 https://172.245.81.204
-https://47.79.93.101
