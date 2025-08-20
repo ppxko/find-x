@@ -1,3 +1,4 @@
+http://212.227.64.111:30006
 http://1.202.102.158:8089
 https://zn.guiyunai.fun
 http://47.108.216.185:8890
@@ -34,6 +35,3 @@ http://academic.gptpanda.net
 https://academic.gptpanda.net
 https://154.64.230.87
 http://123.207.71.173:8001
-http://159.138.241.106:4443
-http://132.226.234.156:9999
-https://154.219.97.59
